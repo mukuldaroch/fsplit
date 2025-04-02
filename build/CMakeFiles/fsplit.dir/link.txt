@@ -1,1 +1,0 @@
-/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/fsplit.dir/link.d CMakeFiles/fsplit.dir/src/main.cpp.o CMakeFiles/fsplit.dir/src/splitter.cpp.o CMakeFiles/fsplit.dir/src/combiner.cpp.o CMakeFiles/fsplit.dir/src/ui.cpp.o CMakeFiles/fsplit.dir/src/utils.cpp.o -o fsplit  -lpthread
