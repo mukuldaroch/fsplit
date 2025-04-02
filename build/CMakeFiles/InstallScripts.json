@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/daroch/code/projects/fsplit/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

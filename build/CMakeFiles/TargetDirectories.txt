@@ -1,0 +1,3 @@
+/home/daroch/code/projects/fsplit/build/CMakeFiles/fsplit.dir
+/home/daroch/code/projects/fsplit/build/CMakeFiles/edit_cache.dir
+/home/daroch/code/projects/fsplit/build/CMakeFiles/rebuild_cache.dir
